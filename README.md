@@ -1,2 +1,5 @@
 # lolejeun.blog
-Support for Hugo framework 
+
+- Blog building repos
+- Hugo blogging tool
+- Slack theme 
