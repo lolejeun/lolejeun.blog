@@ -3,7 +3,7 @@ author: "Leau'là"
 title: "Désacralisation de l'ordinateur"
 date: 2022-03-07
 #draft: true
-description: "\"Un ordinateur est un système de traitement de l'information programmable.\" OUI MERCI MAIS QU'EST CE QUE C'EST???"
+description: "\"Un ordinateur est un système de traitement de l'information programmable.\" OUI MERCI, MAIS QU'EST CE QUE C'EST???"
 categories: [
     "Réflexion"
 ]
@@ -19,7 +19,7 @@ _Petite explication technique à l'usage de vos grands-parents, vos enfants, vot
 Définition classique:
 Un ordinateur est un système de traitement de l'information programmable. (sur Wikipédia par exemple: https://fr.wikipedia.org/wiki/Ordinateur)
 
-**OUI MERCI MAIS QU'EST CE QUE C'EST???**
+**OUI MERCI, MAIS QU'EST CE QUE C'EST???**
 
 ### Une machine qui exécute
 
