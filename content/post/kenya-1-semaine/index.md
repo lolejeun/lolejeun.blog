@@ -83,4 +83,4 @@ Pour le dernier jour de la semaine nous rejoignons des français sur place depui
 
 **Une banane = 10-15 ksh** | **Une pomme = 30-50 ksh** | _Le 17 octobre 2022, 1€ = 119 ksh_
 
-La suite: [Un remier mois au Kenya](https://lolejeun.github.io/p/un-premier-mois-au-kenya/)
+La suite: [Un premier mois au Kenya](https://lolejeun.github.io/p/un-premier-mois-au-kenya/)
