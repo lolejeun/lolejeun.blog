@@ -3,7 +3,7 @@ author: "Leau'là"
 title: "Un premier mois au Kenya"
 date: 2022-11-11
 #draft: true
-description: "Les repaires se renforcent, la beauté de l'océan appelle au rêve tandis que la dureté de ma misère choque encore et nous pétris le cœur avec les contradictions du monde. "
+description: "Les repaires se renforcent, la beauté de l'océan appelle au rêve tandis que la dureté de la misère choque encore et nous pétris le cœur avec les contradictions du monde. "
 categories: [
     "Voyage"
 ]
