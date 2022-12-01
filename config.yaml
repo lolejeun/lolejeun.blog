@@ -202,6 +202,19 @@ menu:
           url: https://github.com/lolejeun
           params:
             icon: brand-github
+
+        - identifier: mastodon
+          name: Mastodon
+          url: https://mastodon.top/@leaula404
+          params:
+            icon: brand-mastodon
+
+        - identifier: spotify
+          name: Spotify
+          url: https://open.spotify.com/playlist/5DOA9oCoyIGthwTQPdUxws?si=29356f3f17814898
+          params:
+            icon: brand-spotify
+
 related:
     includeNewer: true
     threshold: 60
