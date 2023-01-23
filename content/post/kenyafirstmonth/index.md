@@ -8,7 +8,8 @@ categories: [
     "Voyage"
 ]
 tags: [
-    "Kenya"
+    "Kenya",
+    "Avis"
 ]
 image: "plage4.jpg"
 ---

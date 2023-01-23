@@ -8,7 +8,8 @@ categories: [
     "Voyage"
 ]
 tags: [
-    "Chine"
+    "Chine",
+    "Avis"
 ]
 #image: "lanterne.jpg
 ---
