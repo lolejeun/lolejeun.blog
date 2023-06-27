@@ -32,4 +32,4 @@ _“Voyager c'est se quitter soi même, changer de peau en même temps que d'hor
 Si vous voulez me payez un café virtuel ;) :
 https://fr.tipeee.com/leau-la/
 
-PS: Merci à GitHub, aux développeur de Hugo et du thème Stack. Merci aussi à [alrikrr](https://alrikrr.github.io/blog-fr/tuto/creer-son-blog-avec-hugo/) pour l'idée d'utiliser l’hébergement GitHub avec Hugo! Remerciements également à [Wenjian Jiang](https://visitor-badge.glitch.me/) pour le compteur de vues.
+PS: Merci à GitHub, aux développeur de Hugo et du thème Stack. Merci aussi à [alrikrr](https://alrikrr.github.io/blog-fr/tuto/creer-son-blog-avec-hugo/) pour l'idée d'utiliser l’hébergement GitHub avec Hugo! Remerciements également à [Wenjian Jiang](https://visitor-badge.glitch.me/) pour le compteur de vues (même si j'ai fini par l'enlever).
