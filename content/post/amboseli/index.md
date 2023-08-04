@@ -47,6 +47,7 @@ De retour au camp Laleto et Manu égorge le mouton pour le soir. C'est impressio
 Nous nous levons un peu après l'aube et petit-déjeunons avant de monter à bord d'un gros (et vieux) 4x4 pour la visite du parc. Dixon est notre guide. Amboseli est le parc national que j'ai préféré au Kenya même si son attraction principale, le Kilimandjaro, nous a été caché durant toute la journée.
 
 ![](éléphants.jpg)![](zèbre.jpg)
+
 ![](lionne.jpg)![](éléphants2.jpg)
 
 Collines, marécages, lacs et bosquets et quasiment toujours entre nous et l'horizon: des éléphants. C'est un beau moment passé avec Carole et Dixon.
