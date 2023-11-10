@@ -38,11 +38,11 @@ Une première étape - s'il est un tant soit peut concevable d'utiliser ce mot d
 
 > Pour moi, la science est une aspiration de l’esprit humain qui cherche l’unité sous le chaos de la nature, comme un écrivain la cherche dans la variété de la nature humaine.
 >
-> _Jacob Bronowski Science and Human Values (1956, édition revue en 1965)_
+> _Jacob Bronowski, Science and Human Values (1956, édition revue en 1965)_
 
 > Science sans conscience n'est que ruine de l'âme.
 >
-> _Rabelais _
+> _Rabelais_
 
 La conscience, ici, est vue comme l'aptitude à se concevoir soi-même, se voir soit même. La science que nous avons construite et que nous enseignons aujourd'hui dans nos écoles en est plus que jamais dépourvue. Nous utilisons nous outils scientifiques pour découper, pour trouver des schémas, des patterns, mettre le monde sous forme de statistiques, réduire pour analyser et - soi disant - mieux savoir, mieux prévoir.
 Il nous faudrait redonner conscience à la science en:
